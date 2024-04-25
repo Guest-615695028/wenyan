@@ -2,10 +2,10 @@
 基於結合網及[騰訊敏捷開發平臺](https://www.tapd.cn/)改進，用於硬件、軟件及硬軟綜合開發與運行維護。
 ## 設計理念
 [善作器者](https://agilemanifesto.org/iso/zhcht/manifesto.html)，\
-一、互人之動而非工也；\
-二、足器之用而非文也；\
-三、合客之作而非約也；\
-四、應事之變而非循也。\
+一、互人之動以勝工也；\
+二、足器之用以勝文也；\
+三、合客之作以勝約也；\
+四、應事之變以勝循也。\
 故器不頓而利可全，此謀民之法也。
 
 其[作器之法](https://agilemanifesto.org/iso/zhcht/principles.html)有十二： \
