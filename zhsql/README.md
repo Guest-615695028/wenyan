@@ -4,7 +4,6 @@
 ## 1 語言結構
 視[統一文言編程語言](../README.md)，參[MySQL](https://dev.mysql.com/doc/refman/8.0/en/)、[PostgreSQL](https://www.postgresql.org/docs/current/)，揚長避短。
 ### 1.1 關鍵字
-不可以定名。[含八十五字](../README.md#關鍵字)
 ```
 數據定義：建去改庫表如
 數據操縱：增刪更取
